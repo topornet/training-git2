@@ -7,6 +7,7 @@ public class App {
 		System.out.println("Training git2.");
 		System.out.println("Training git3.");
 		System.out.println("Training git4.");
+		System.out.println("Training git5.");
 		
 	}
 
